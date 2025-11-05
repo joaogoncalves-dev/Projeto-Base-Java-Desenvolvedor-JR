@@ -18,9 +18,16 @@ Cada arquivo (Dia 1, Dia 2, etc.) é intencionalmente documentado para servir co
 ---
 
 ###  EVOLUÇÃO DO PROJETO
+Esta tabela acompanha a jornada de aprendizado, garantindo que cada tópico fundamental seja abordado e documentado com clareza.
 
 | Dia | Tópico | Status |
 | :--- | :--- | :--- |
-| **Dia 1** | Variáveis e Tipos de Dados | ✅ Concluído |
-| **Dia 2** | Estruturas Condicionais (`if/else`) | ✅ Concluído |
-| **Dia 3** | Laços de Repetição (`for/while`) | ✅ Concluído |
+| **Dia 1** | Variáveis, Tipos de Dados e Atribuições | ✅ Concluído |
+| **Dia 2** | Estruturas Condicionais (`if/else`, `switch`) | ✅ Concluído |
+| **Dia 3** | Laços de Repetição (`for`, `while`) | ✅ Concluído |
+| **Dia 4** | Entrada/Saída GUI (`JOptionPane`) | ✅ Concluído |
+| **Dia 5** | Entrada/Saída Terminal (`Scanner`) | ✅ Concluído |
+| **Dia 6** | Robustez/Defesa: `try-catch` para GUI e Terminal | ⏳ Planejado |
+| **Dia 7** | Métodos (Funções) e Modularidade de Código | ⏳ Planejado |
+| **Dia 8** | Arrays (Vetores) e Manipulação de Coleções | ⏳ Planejado |
+| **Dia 9** | Início da Programação Orientada a Objetos (POO) | ⏳ Planejado |

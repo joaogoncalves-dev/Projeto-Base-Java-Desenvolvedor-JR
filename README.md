@@ -23,7 +23,7 @@ Esta tabela acompanha a jornada de aprendizado, garantindo que cada tópico fund
 | Dia | Tópico | Status |
 | :--- | :--- | :--- |
 | **Dia 1** | Variáveis, Tipos de Dados e Atribuições | ✅ Concluído |
-| **Dia 2** | Estruturas Condicionais (`if/else`, `switch`) | ✅ Concluído |
+| **Dia 2** | Estruturas Condicionais (`if/else`) | ✅ Concluído |
 | **Dia 3** | Laços de Repetição (`for`, `while`) | ✅ Concluído |
 | **Dia 4** | Entrada/Saída GUI (`JOptionPane`) | ✅ Concluído |
 | **Dia 5** | Entrada/Saída Terminal (`Scanner`) | ✅ Concluído |

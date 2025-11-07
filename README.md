@@ -28,6 +28,7 @@ Esta tabela acompanha a jornada de aprendizado, garantindo que cada tópico fund
 | **Dia 4** | Entrada/Saída GUI (`JOptionPane`) | ✅ Concluído |
 | **Dia 5** | Entrada/Saída Terminal (`Scanner`) | ✅ Concluído |
 | **Dia 6** | Robustez/Defesa: `try-catch` para GUI | ✅ Concluído |
-| **Dia 7** | Métodos (Funções) e Modularidade de Código | ⏳ Planejado |
-| **Dia 8** | Arrays (Vetores) e Manipulação de Coleções | ⏳ Planejado |
-| **Dia 9** | Início da Programação Orientada a Objetos (POO) | ⏳ Planejado |
+| **Dia 7** | Robustez/Defesa: `try-catch` para TERMINAL | ✅ Concluído |
+| **Dia 8** | Métodos (Funções) e Modularidade de Código | ⏳ Planejado |
+| **Dia 9** | Arrays (Vetores) e Manipulação de Coleções | ⏳ Planejado |
+| **Dia 10** | Início da Programação Orientada a Objetos (POO) | ⏳ Planejado |

@@ -31,4 +31,5 @@ Esta tabela acompanha a jornada de aprendizado, garantindo que cada tópico fund
 | **Dia 7** | Robustez/Defesa: `try-catch` para TERMINAL | ✅ Concluído |
 | **Dia 8** | Métodos (Funções) e Modularidade de Código | ✅ Concluído |
 | **Dia 9** | Arrays (Vetores) e Manipulação de Coleções | ✅ Concluído |
-| **Dia 10** | Início da Programação Orientada a Objetos (POO) | ⏳ Planejado |
+| **Dia 10** | Matrizes (Arrays 2D) e métodos modulares para processamento. | ✅ Concluído |
+| **Dia 11** | Início da Programação Orientada a Objetos (POO) | ⏳ Planejado |

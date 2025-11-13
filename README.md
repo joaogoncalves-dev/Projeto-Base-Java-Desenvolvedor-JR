@@ -33,4 +33,5 @@ Esta tabela acompanha a jornada de aprendizado, garantindo que cada tópico fund
 | **Dia 9** | Arrays (Vetores) e Manipulação de Coleções | ✅ Concluído |
 | **Dia 10** | Matrizes (Arrays 2D) e métodos modulares para processamento. | ✅ Concluído |
 | **Dia 11** | Revisão estruturas condicionais | ✅ Concluído |
-| **Dia 12** | Início da Programação Orientada a Objetos (POO) | ⏳ Planejado |
+| **Dia 12** | Início da Programação Orientada a Objetos (POO) |  ✅ Concluído |
+| **Dia 13** |  | ⏳ Planejado | 
